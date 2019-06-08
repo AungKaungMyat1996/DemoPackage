@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "description": "The demo project",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "php",
+    "js"
+  ],
+  "author": "Ko Aung",
+  "license": "MIT"
+}
